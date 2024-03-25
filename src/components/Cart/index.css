@@ -1,0 +1,13 @@
+.container {
+  background-color: #ffffff;
+  background-size: cover;
+  min-height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+.a-img {
+  width: 250px;
+}
